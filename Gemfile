@@ -25,4 +25,4 @@ gem 'font-awesome-sass'
 ## SCSS glob compiling
 gem 'sass-globbing'
 ## Middleman sprockets
-gem 'middleman-sprockets'
+gem 'middleman-sprockets', '>= 4.1.1'
