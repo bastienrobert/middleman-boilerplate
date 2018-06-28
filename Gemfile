@@ -2,7 +2,7 @@
 # the following line to use "http://" instead
 source 'https://rubygems.org'
 
-gem "middleman", "~> 4.2"
+gem "middleman", "~> 4.2", ">= 4.2.1"
 
 # Live-reloading plugin
 # gem "middleman-livereload"
@@ -25,4 +25,4 @@ gem 'font-awesome-sass'
 ## SCSS glob compiling
 gem 'sass-globbing'
 ## Middleman sprockets
-gem 'middleman-sprockets'
+gem 'middleman-sprockets', '>= 4.1.1'
